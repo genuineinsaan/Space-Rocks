@@ -47,4 +47,4 @@ With the following software and hardware list you can run all code files present
 1. Create a zip file
 2. Go to godot and click on import section
 3. unzip the file in your device and then import
-4. now play, or learn or edit
+4. now play, or learn or edit.
